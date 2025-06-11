@@ -113,4 +113,4 @@ useMemo
 
 Custom hooks
 
-Custom Hooks start with "use". In a case when we want to fetch a data and it will be needed in a multiple component, we can create a custom hook, then fetch the data inside the custom hook, the call the custom hook whenever it needed, that is reuse them.
+    Custom Hooks start with "use". In a case when we want to fetch a data and it will be needed in a multiple component, we can create a custom hook, then fetch the data inside the custom hook, the call the custom hook whenever it needed, that is reuse them.
